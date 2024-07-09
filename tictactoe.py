@@ -102,7 +102,7 @@ game_over = False
 
 #window setup
 window = tkinter.Tk() #create the game window
-window.title("Tic Tac Toe For Omo Daddy Korede")
+window.title("Tic Tac Toe For Korede")
 window.resizable(False, False)
 
 
